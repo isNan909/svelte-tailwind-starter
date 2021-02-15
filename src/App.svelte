@@ -6,7 +6,7 @@
 	<h1>Hello {name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 	<br>
-	<h3 class="text-purple-900 bg-blue-100 p-4">Svelte and Tailwind Starter Template</h3>
+	<h3 class="text-purple-900 bg-blue-100 p-4">1Svelte and Tailwind Starter Template</h3>
 </main>
 
 <style>
